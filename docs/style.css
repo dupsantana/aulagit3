@@ -1,0 +1,22 @@
+/*Seletor de elementos*/
+body    {
+    background-color: rgb(167, 162, 162);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+/* Seletor de classe */
+
+.titulo{
+    text-align: center;
+    margin: 2%;
+    }
+
+.links{
+    text-align: left;
+    
+}
+
+section{
+    border-bottom: solid;
+}
